@@ -1,1 +1,1 @@
-# rn-salon-clloh
+# React Native CLLOH Test
